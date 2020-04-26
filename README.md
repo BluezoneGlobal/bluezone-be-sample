@@ -47,3 +47,7 @@ Bluezone uses a number of open source projects to work properly:
 And of course Bluezone itself is open source with a [public repository][dill]
  on GitHub.
 
+## Licensing
+Bluezone is released under GNU/GPL version 2.
+
+See [LICENSE](LICENSE) for the full license.
