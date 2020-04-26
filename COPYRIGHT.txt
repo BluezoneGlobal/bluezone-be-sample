@@ -1,18 +1,20 @@
 All Bluezone code is Copyright by the original authors. See: https://bluezone.ai
 
-This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
-You should have received a copy of the GNU General Public License along with this program as the file LICENSE.txt; if not, please see http://www.gnu.org/licenses/old-licenses/gpl-2.0.txt.
+You should have received a copy of the GNU General Public License along with this program as the file LICENSE.txt; if not, please see http://www.gnu.org/licenses/licenses.html
 
 Bluezone includes works under other copyright notices and distributed according to the terms of the GNU General Public License or a compatible license, including:
 
 Name                     Version        License            Description                                                               Url
 Mysql Connector          8.0.19.0       GPLv2              Enabling developers to build database applications                        https://www.mysql.com/
 Newtonsoft.Json          6.0.8          MIT                Converts an object to and from JSON.                                      https://www.newtonsoft.com/
-Nodejs                   12.16.2        OpenJs             Is an open source server environment                                      https://nodejs.org/dist/v12.16.2/node-v12.16.2-x64.msi
+Firebase                 7.14.2         Apache-2.0         Realtime Database                                                         https://github.com/firebase/firebase-js-sdk
+Nodejs                   12.16.2        MIT                Is an open source server environment                                      https://github.com/nodejs
 Bootstrap                4.0.0          MIT                Framework for developing responsive                                       https://getbootstrap.com/
 JQuery                   3.2.1          MIT                Javascript library                                                        https://jquery.com/
+Express                  4.17.1         MIT                Fast, unopinionated, minimalist web framework for node.                   https://github.com/expressjs/express
 
 .. see copyright information at the header of source code file.
