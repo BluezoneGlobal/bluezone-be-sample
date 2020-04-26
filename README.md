@@ -48,6 +48,6 @@ And of course Bluezone itself is open source with a [public repository][dill]
  on GitHub.
 
 ## Licensing
-Bluezone is released under GNU/GPL version 2.
+Bluezone is released under GNU/GPL version 3.
 
 See [LICENSE](LICENSE) for the full license.
