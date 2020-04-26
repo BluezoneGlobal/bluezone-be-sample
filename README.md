@@ -38,7 +38,6 @@ Bluezone uses a number of open source projects to work properly:
 * [Mysql] - Database
 * [IIS] - Deploy .NET project
 * [Firebase] - Database realtime
-* [markdown-it] - Markdown parser done right. Fast and easy to extend.
 * [Bootstrap] - great UI boilerplate for modern web apps
 * [node.js] - evented I/O for the backend
 * [Express] - fast node.js network app framework
@@ -47,7 +46,3 @@ Bluezone uses a number of open source projects to work properly:
 And of course Bluezone itself is open source with a [public repository][dill]
  on GitHub.
 
-## Licensing
-Bluezone is released under GNU/GPL version 3.
-
-See [LICENSE](LICENSE) for the full license.
