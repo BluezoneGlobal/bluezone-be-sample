@@ -16,7 +16,7 @@ Setup IIS, link here: https://www.iis.net/
 
 ## Guide for send notification to devices (android, ios)
 
-Setup nodejs 12.16.2, linkhere: https://nodejs.org/dist/v12.16.2/node-v12.16.2-x64.msi
+Setup nodejs 12.16.2, link here: https://nodejs.org/dist/v12.16.2/node-v12.16.2-x64.msi
   - Goto SendNotify folder
   - Open serviceAccountKey.json file -> Update parameters Firebase
   - At SendNotify folder open (cmd, terminal) here and execute command 'npm install' to download library
@@ -44,3 +44,7 @@ Bluezone uses a number of open source projects to work properly:
 And of course Bluezone itself is open source with a [public repository][dill]
  on GitHub.
 
+## Licensing
+Bluezone is released under GNU/GPL version 3.
+
+See [LICENSE](LICENSE) for the full license.
