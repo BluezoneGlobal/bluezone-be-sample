@@ -1,6 +1,8 @@
-# Guide for deploy API
+# This is sample code backend of Bluezone project
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+## Guide for deploy API
+
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/BluezoneGlobal)
 
 Setup mysql and workbench, link here: https://dev.mysql.com/downloads/mysql/
 
@@ -14,9 +16,9 @@ Setup IIS, link here: https://www.iis.net/
   - Deploy Api on IIS
 
 
-# Guide for send notification to devices (android, ios)
+## Guide for send notification to devices (android, ios)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/BluezoneGlobal)
 
 Setup nodejs 12.16.2, linkhere: https://nodejs.org/dist/v12.16.2/node-v12.16.2-x64.msi
   - Goto SendNotify folder
