@@ -1,4 +1,9 @@
-# This is sample code backend of Bluezone project
+# This project is for demonstration purposes only. 
+
+ - It is for those who are interested in building a Backend system to test how client apps connect to such system. By this way, they can further write backend code for their own business, meeting their own needs. 
+ - This demonstration project offers main processing steps only, no validation, error capturing, security issue handling, etc. included. 
+ - The real project which comprises full features, UIs, history, etc. integrates several private operations (such as those of medical profession), making it impossible to be made open source.
+
 
 ## Guide for deploy API
 
@@ -29,7 +34,7 @@ Setup nodejs 12.16.2, link here: https://nodejs.org/dist/v12.16.2/node-v12.16.2-
     ```
   - Open 'localhost:3000' on browser
 
-### Tech
+## Tech
 
 Bluezone uses a number of open source projects to work properly:
 
