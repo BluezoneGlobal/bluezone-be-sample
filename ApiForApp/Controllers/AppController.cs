@@ -32,6 +32,10 @@ namespace WebAPI.Controllers
 {
     public class AppController : ApiController
     {
+        //This project is for demonstration purposes only.
+        //It is for those who are interested in building a Backend system to test how client apps connect to such system. By this way, they can further write backend code for their own business, meeting their own needs.
+        //This demonstration project offers main processing steps only, no validation, error capturing, security issue handling, etc. included.
+        //The real project which comprises full features, UIs, history, etc. integrates several private operations (such as those of medical profession), making it impossible to be made open source.
         [HttpPost]
         public string RegisterUser([FromBody]UserRegister data)
         {
