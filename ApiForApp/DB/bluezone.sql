@@ -28,7 +28,7 @@ CREATE TABLE `reporthistory`  (
 DROP TABLE IF EXISTS `userregister`;
 CREATE TABLE `userregister`  (
   `ID` bigint(20) NOT NULL AUTO_INCREMENT,
-  `Data` varchar(1000) CHARACTER SET utf8 COLLATE utf8_unicode_ci NULL DEFAULT NULL,
+  `TokenFirebase` varchar(1000) CHARACTER SET utf8 COLLATE utf8_unicode_ci NULL DEFAULT NULL,
   PRIMARY KEY (`ID`) USING BTREE
 ) ENGINE = InnoDB AUTO_INCREMENT = 9 CHARACTER SET = utf8 COLLATE = utf8_unicode_ci ROW_FORMAT = Dynamic;
 
