@@ -53,3 +53,8 @@ And of course Bluezone itself is open source with a [public repository][dill]
 Bluezone is released under GNU/GPL version 3.
 
 See [LICENSE](LICENSE) for the full license.
+
+## Community
+  - Bluezone Fanpage: https://www.facebook.com/BluezoneVN
+  - Bluezone group on FB: https://www.facebook.com/groups/BluezoneVN
+  - https://groups.google.com/forum/#!forum/bluezoneglobal
